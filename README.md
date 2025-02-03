@@ -1,2 +1,2 @@
-# dash_auth
+# dash_authenticator
 Authentication component for dash
